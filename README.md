@@ -215,9 +215,8 @@ We welcome contributions! Please feel free to submit pull requests, report bugs,
 
 Images
 
-<h5>Tending & Popular Movies:</h5>
 
-<img src="./src/assets/screenshort/4.PNG" alt="Movix homepage">
+<img src="Images/1.png" alt="homepage">
 <img src="./src/assets/screenshort/5.PNG" alt="Movix homepage">
 
 <h5>Movie Details Page:</h5>
