@@ -213,41 +213,72 @@ We welcome contributions! Please feel free to submit pull requests, report bugs,
 
 
 
-Images
-
-<h11>Home Page:</h11>
-<img src="Images/1.png" alt="homepage">
-<h12>Register Page:</h12>
-<img src="Images/2.png" alt="homepage">
-<h13>Login Page:</h13>
-<img src="Images/3.png" alt="homepage">
-<h14>Index Page:</h14>
-<img src="Images/4.png" alt="homepage">
-<h15>Logistic regression Accuracy page:</h15>
-<img src="Images/5.png" alt="homepage">
-<h16>Decision tree classifier  Accuracy page:</h16>
-<img src="Images/6.png" alt="homepage">
-<h17>Test the input page:</h17>
-<img src="Images/7.png" alt="homepage">
-<h18>Enter the inputs  from excel or cvs file :</h18>
-<img src="Images/8.png" alt="homepage">
-<h19>Prediction page :</h19>
-<img src="Images/9.png" alt="homepage">
-<h20>K-nearest neighbor Classifier accuracy page:</h20>
-<img src="Images/10.png" alt="homepage">
-<h21>PassiveAggressiveClassifier accuracy page :</h21>
-<img src="Images/11.png" alt="homepage">
-<h22>Final Page:</h22>
-<img src="Images/12.png" alt="homepage">
 
 
+## 📸 Project Output Screenshots
+
+Below are the key pages and results of the project, showcasing various stages and model performance.
+
+---
+
+### 🏠 Home Page
+<img src="Images/1.png" alt="Home Page" width="800"/>
+
+---
+
+### 📝 Register Page
+<img src="Images/2.png" alt="Register Page" width="800"/>
+
+---
+
+### 🔐 Login Page
+<img src="Images/3.png" alt="Login Page" width="800"/>
+
+---
+
+### 📊 Index Page
+<img src="Images/4.png" alt="Index Page" width="800"/>
+
+---
+
+### 📈 Logistic Regression Accuracy
+<img src="Images/5.png" alt="Logistic Regression Accuracy" width="800"/>
+
+---
+
+### 🌳 Decision Tree Classifier Accuracy
+<img src="Images/6.png" alt="Decision Tree Classifier Accuracy" width="800"/>
+
+---
+
+### 🧮 Test Input Page
+<img src="Images/7.png" alt="Test Input Page" width="800"/>
+
+---
+
+### 📂 Upload Inputs (Excel/CSV)
+<img src="Images/8.png" alt="Upload Inputs" width="800"/>
+
+---
+
+### 🔍 Prediction Page
+<img src="Images/9.png" alt="Prediction Page" width="800"/>
+
+---
+
+### 🤝 K-Nearest Neighbor Classifier Accuracy
+<img src="Images/10.png" alt="KNN Classifier Accuracy" width="800"/>
+
+---
+
+### ⚡ Passive Aggressive Classifier Accuracy
+<img src="Images/11.png" alt="Passive Aggressive Classifier Accuracy" width="800"/>
+
+---
+
+### 🏁 Final Results Page
+<img src="Images/12.png" alt="Final Page" width="800"/>
+
+---
 
 
-
-
-
-<img src="./src/assets/screenshort/11.PNG" alt="Movix homepage">
-<img src="./src/assets/screenshort/12.PNG" alt="Movix homepage">
-
-
-This project needs a ⭐️ from you. Don't forget to leave a star ⭐️.
