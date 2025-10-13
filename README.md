@@ -244,40 +244,36 @@ Below are the key pages and results of the project, showcasing various stages an
 ### 📈 Logistic Regression Accuracy
 <img src="Images/5.png" alt="Logistic Regression Accuracy" width="800"/>
 
----
-
-### 🌳 Decision Tree Classifier Accuracy
-<img src="Images/6.png" alt="Decision Tree Classifier Accuracy" width="800"/>
 
 ---
 
 ### 🧮 Test Input Page
-<img src="Images/7.png" alt="Test Input Page" width="800"/>
+<img src="Images/6.png" alt="Test Input Page" width="800"/>
 
 ---
 
 ### 📂 Upload Inputs (Excel/CSV)
-<img src="Images/8.png" alt="Upload Inputs" width="800"/>
+<img src="Images/7.png" alt="Upload Inputs" width="800"/>
 
 ---
 
 ### 🔍 Prediction Page
-<img src="Images/9.png" alt="Prediction Page" width="800"/>
+<img src="Images/8.png" alt="Prediction Page" width="800"/>
 
 ---
 
 ### 🤝 K-Nearest Neighbor Classifier Accuracy
-<img src="Images/10.png" alt="KNN Classifier Accuracy" width="800"/>
+<img src="Images/9.png" alt="KNN Classifier Accuracy" width="800"/>
 
 ---
 
 ### ⚡ Passive Aggressive Classifier Accuracy
-<img src="Images/11.png" alt="Passive Aggressive Classifier Accuracy" width="800"/>
+<img src="Images/10.png" alt="Passive Aggressive Classifier Accuracy" width="800"/>
 
 ---
 
 ### 🏁 Final Results Page
-<img src="Images/12.png" alt="Final Page" width="800"/>
+<img src="Images/11.png" alt="Final Page" width="800"/>
 
 ---
 
