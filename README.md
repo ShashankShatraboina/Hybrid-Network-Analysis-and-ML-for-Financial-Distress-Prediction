@@ -205,5 +205,3 @@ We welcome contributions! Please feel free to submit pull requests, report bugs,
 
 ---
 
-
-For questions or support, please open an issue or contact the maintainers.
