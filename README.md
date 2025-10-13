@@ -217,6 +217,22 @@ Images
 
 
 <img src="Images/1.png" alt="homepage">
+<img src="Images/2.png" alt="homepage">
+<img src="Images/3.png" alt="homepage">
+<img src="Images/4.png" alt="homepage">
+<img src="Images/5.png" alt="homepage">
+<img src="Images/6.png" alt="homepage">
+<img src="Images/7.png" alt="homepage">
+<img src="Images/8.png" alt="homepage">
+<img src="Images/9.png" alt="homepage">
+<img src="Images/10.png" alt="homepage">
+<img src="Images/11.png" alt="homepage">
+<img src="Images/12.png" alt="homepage">
+
+
+
+
+
 <img src="./src/assets/screenshort/5.PNG" alt="Movix homepage">
 
 <h5>Movie Details Page:</h5>
