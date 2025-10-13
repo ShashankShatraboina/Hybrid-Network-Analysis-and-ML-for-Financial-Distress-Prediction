@@ -217,34 +217,34 @@ Images
 
 <h11>Home Page:</h11>
 <img src="Images/1.png" alt="homepage">
+<h12>Register Page:</h12>
 <img src="Images/2.png" alt="homepage">
+<h13>Login Page:</h13>
 <img src="Images/3.png" alt="homepage">
+<h14>Index Page:</h14>
 <img src="Images/4.png" alt="homepage">
+<h15>Logistic regression Accuracy page:</h15>
 <img src="Images/5.png" alt="homepage">
+<h16>Decision tree classifier  Accuracy page:</h16>
 <img src="Images/6.png" alt="homepage">
+<h17>Test the input page:</h17>
 <img src="Images/7.png" alt="homepage">
+<h18>Enter the inputs  from excel or cvs file :</h18>
 <img src="Images/8.png" alt="homepage">
+<h19>Prediction page :</h19>
 <img src="Images/9.png" alt="homepage">
+<h20>K-nearest neighbor Classifier accuracy page:</h20>
 <img src="Images/10.png" alt="homepage">
+<h21>PassiveAggressiveClassifier accuracy page :</h21>
 <img src="Images/11.png" alt="homepage">
+<h22>Final Page:</h22>
 <img src="Images/12.png" alt="homepage">
 
 
 
 
 
-<img src="./src/assets/screenshort/5.PNG" alt="Movix homepage">
 
-<h5>Movie Details Page:</h5>
-
-<img src="./src/assets/screenshort/7.PNG" alt="Movix homepage">
-<img src="./src/assets/screenshort/8.PNG" alt="Movix homepage">
-
-<h5>Search Results Page:</h5>
-
-<img src="./src/assets/screenshort/13.PNG" alt="Movix homepage">
-
-<h5>Explore Movies & TV Shows:</h5>
 
 <img src="./src/assets/screenshort/11.PNG" alt="Movix homepage">
 <img src="./src/assets/screenshort/12.PNG" alt="Movix homepage">
