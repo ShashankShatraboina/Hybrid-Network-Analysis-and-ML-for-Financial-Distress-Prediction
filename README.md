@@ -193,13 +193,9 @@ If you use this code in your research, please cite:
 
 We welcome contributions! Please feel free to submit pull requests, report bugs, or suggest new features.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Shashank Shatraboina** 
 
 ## 🙏 Acknowledgments
 
