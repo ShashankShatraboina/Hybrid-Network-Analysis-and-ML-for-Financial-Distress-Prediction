@@ -230,28 +230,7 @@ financial-distress-prediction/
 ├── notebooks/              # Jupyter notebooks for analysis
 ├── tests/                  # Test cases
 └── docs/                   # Documentation
-```
 
-## 🔬 Research Contribution
-
-This work contributes to financial analytics by:
-
-- Introducing a novel network-based approach for financial distress prediction
-- Demonstrating the value of inter-company relationships in risk assessment
-- Providing a framework for integrating network science with financial modeling
-- Offering practical tools for investors and financial analysts
-
-## 📚 Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{hybridfinancial2024,
-  title={A Hybrid Network Analysis and Machine Learning Model for Enhanced Financial Distress Prediction},
-  author={Your Name},
-  journal={GitHub Repository},
-  year={2024}
-}
 ```
 
 ## 🤝 Contributing
@@ -260,7 +239,7 @@ We welcome contributions! Please feel free to submit pull requests, report bugs,
 
 ## 👥 Authors
 
-- **Shashank Shatraboina** 
+ **Shashank Shatraboina** 
 
 ## 🙏 Acknowledgments
 
