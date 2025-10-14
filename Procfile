@@ -1,1 +1,1 @@
-web: gunicorn financial_distress.wsgi --log-file -
+web: gunicorn financial_distress.wsgi:application --log-file -
