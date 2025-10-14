@@ -1,8 +1,7 @@
-django==2.0.3
-gunicorn==20.1.0
-whitenoise==4.1
+Django>=4.2,<5.0
+gunicorn>=20.1.0
+whitenoise>=6.0.0
 scikit-learn==1.2.2
 imbalanced-learn==0.10.1
 dj-database-url==1.0.0
 psycopg2-binary==2.9.7
-
