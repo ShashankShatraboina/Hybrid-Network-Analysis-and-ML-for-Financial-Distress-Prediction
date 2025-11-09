@@ -237,7 +237,7 @@ financial-distress-prediction/
 
 We welcome contributions! Please feel free to submit pull requests, report bugs, or suggest new features.
 
-## 👥 Authors
+## 👥 Author
 
  **Shashank Shatraboina** 
 
