@@ -233,21 +233,7 @@ financial-distress-prediction/
 
 ```
 
-## 🤝 Contributing
 
-We welcome contributions! Please feel free to submit pull requests, report bugs, or suggest new features.
-
-## 👥 Author
-
- **Shashank Shatraboina** 
-
-## 🙏 Acknowledgments
-
-- Financial data providers
-- Open-source community for machine learning libraries
-- Academic advisors and research collaborators
-
----
 
 
 
