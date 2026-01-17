@@ -215,21 +215,6 @@ The hybrid model demonstrates:
 3. **Real-time Adaptability**: System can adapt to changing market conditions
 4. **Comprehensive Insight**: Provides holistic understanding of financial entity interactions
 
-## 📁 Project Structure
-
-```
-financial-distress-prediction/
-│
-├── data/                    # Dataset files
-├── src/
-│   ├── preprocessing/       # Data preprocessing modules
-│   ├── network_analysis/    # Network construction and analysis
-│   ├── models/             # Machine learning models
-│   └── visualization/      # Result visualization
-├── web_app/                # Django web application
-├── notebooks/              # Jupyter notebooks for analysis
-├── tests/                  # Test cases
-└── docs/                   # Documentation
 
 ```
 
