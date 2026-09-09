@@ -211,7 +211,7 @@ The hybrid model demonstrates improved financial distress prediction by combinin
 * Demonstrated stronger predictive performance than approaches relying on traditional financial variables alone.
 * Evaluated using **Accuracy, Precision, Recall, and F1-Score**.
 
-### Key Findings
+## 🎯 Key Findings
 
 1. **Network Features Matter:** Features derived from similarity and correlation networks contribute to improved predictive accuracy.
 2. **Hybrid Approach Superior:** Combining network analysis with traditional financial indicators improves financial distress prediction compared with standalone approaches.
@@ -221,11 +221,5 @@ The hybrid model demonstrates improved financial distress prediction by combinin
 6. **Robust Performance:** The model demonstrates robust performance across the evaluated scenarios.
 
 
-## 🎯 Key Findings
-
-1. **Network Features Matter**: Features from similarity networks play a pivotal role in improving predictive accuracy
-2. **Hybrid Approach Superior**: Combination of network analysis and ML outperforms standalone methods
-3. **Real-time Adaptability**: System can adapt to changing market conditions
-4. **Comprehensive Insight**: Provides holistic understanding of financial entity interactions
 
 
