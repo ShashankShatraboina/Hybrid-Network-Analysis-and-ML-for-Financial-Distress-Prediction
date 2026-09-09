@@ -200,9 +200,10 @@ predictions = predictor.predict(new_data)
 ```
 
 ## 📈 Results
-## 📈 Results
 
 The hybrid model demonstrates improved financial distress prediction by combining traditional financial indicators with network-derived features.
+
+### Model Performance
 
 * **92% prediction accuracy** achieved by the hybrid model.
 * **15% reduction in false positives** compared to baseline models.
@@ -210,12 +211,15 @@ The hybrid model demonstrates improved financial distress prediction by combinin
 * Demonstrated stronger predictive performance than approaches relying on traditional financial variables alone.
 * Evaluated using **Accuracy, Precision, Recall, and F1-Score**.
 
-The hybrid model demonstrates:
+### Key Findings
 
-- **Significant improvement** in prediction accuracy compared to traditional methods
-- **Enhanced capability** to capture complex relationships between companies
-- **Robust performance** across different market conditions
-- **Superior early warning** capabilities for financial distress
+1. **Network Features Matter:** Features derived from similarity and correlation networks contribute to improved predictive accuracy.
+2. **Hybrid Approach Superior:** Combining network analysis with traditional financial indicators improves financial distress prediction compared with standalone approaches.
+3. **Reduced False Positives:** The hybrid model achieved a **15% reduction in false-positive predictions** compared with baseline models.
+4. **High Predictive Accuracy:** The hybrid model achieved **92% prediction accuracy**.
+5. **Early Warning Capability:** Network-based features improve the model's ability to capture relationships between companies and identify potential financial distress earlier.
+6. **Robust Performance:** The model demonstrates robust performance across the evaluated scenarios.
+
 
 ## 🎯 Key Findings
 
